@@ -1,0 +1,8 @@
+.main-container {
+  display: flexbox;
+}
+
+.pixel-box {
+  margin: 0;
+  background-color: red;
+}
